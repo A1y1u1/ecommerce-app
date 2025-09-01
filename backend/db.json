@@ -107,5 +107,33 @@
     }
   ],
   "carts": [],
-  "orders": []
+  "orders": [
+    {
+      "id": "ad7d",
+      "userId": "2",
+      "products": [
+        {
+          "productId": "4ad6",
+          "quantity": 1
+        }
+      ],
+      "shippingDetails": {
+        "username": "admin",
+        "password": "",
+        "firstname": "Ayush",
+        "lastname": "Meshram",
+        "companyname": "Sustain Aim",
+        "address": "Maharashtra, India.",
+        "state": "Maharashtra",
+        "postalCode": "441906",
+        "country": "India",
+        "email": "admin@example.com",
+        "phonenumber": "08446958335"
+      },
+      "paymentMethod": "cod",
+      "status": "pending",
+      "total": 400,
+      "createdAt": "2025-09-01T19:03:23.979Z"
+    }
+  ]
 }
