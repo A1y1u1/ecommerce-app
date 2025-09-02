@@ -106,7 +106,18 @@
       "role": "client"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": "0a22",
+      "userId": "2",
+      "products": [
+        {
+          "productId": "4ad6",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
   "orders": [
     {
       "id": "ad7d",
